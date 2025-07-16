@@ -27,4 +27,4 @@ This is a tutorial to get a local copy up and running follow these simple steps.
    cd ..
    ./EurekaExchange
    ```
-6. You'll all set to use EurekaExchange Client!
+6. You'll all set to use Exchange Client!
